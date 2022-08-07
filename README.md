@@ -26,3 +26,14 @@ class movies {
       this.studio = Eon Productions;
       this.rating = PG13;
     }
+
+3. Write a “person” class to hold all the details.
+
+class person {
+    constructor(firstname, lastname, Dob , Regno, email) {
+      this.firstname = firstname;
+      this.lastname= lastname;
+      this.Dob = Dob;
+      this.Regno = Reg no;
+      this.email =email;
+    }
